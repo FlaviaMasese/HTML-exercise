@@ -1,0 +1,56 @@
+Body{
+    margin-top: 10px;
+    border: 10px;
+    padding: 20em;
+    padding-top:0%;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.paragraph{
+    color:rgb(0, 128, 100);
+    border-style: inset;
+    border-top: solid;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+
+}
+.para{
+    text-align: center;
+    white-space: nowrap;
+}
+.pp{
+    text-align: center;
+    font-size:smaller;
+}
+.caption{
+    text-align:center;
+    color: silver;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+}
+.featured{
+    text-align: justify;
+    border-left: solid;
+    border-color: darkkhaki;
+}
+#ref{
+    color: saddlebrown;
+    font-weight: bold;
+}
+.bottom{
+    border-bottom: solid;
+    text-align: center;
+}
+.ingre{
+    text-align: center
+}
+#head{
+    font-weight: bold;
+}
